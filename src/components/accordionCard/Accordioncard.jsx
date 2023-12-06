@@ -19,10 +19,10 @@ export default function Accordioncard() {
       <h1>FAQ</h1>
       <img
         className="illustration"
-        src="../../images/illustration-woman-online-mobile.svg"
+        src="/images/illustration-woman-online-mobile.svg"
         alt="ilustration"
       />
-      <img id="box" src="./images/illustration-box-desktop.svg" alt="" />
+      <img id="box" src="/images/illustration-box-desktop.svg" alt="" />
 
       {DATA.map((item) => (
         <AccordionItem
