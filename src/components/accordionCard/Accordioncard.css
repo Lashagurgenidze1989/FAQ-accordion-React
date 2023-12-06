@@ -87,8 +87,8 @@ h1 {
   .accordionCard {
     padding: 6.5rem 9.5rem 8.3rem 47.6rem;
     width: 920px;
-    background-image: url(./images/illustration-woman-online-desktop.svg),
-      url(./images/mobile-shadow.svg);
+    background-image: url(/images/illustration-woman-online-desktop.svg),
+      url(/images/mobile-shadow.svg);
     background-repeat: no-repeat;
     background-position: -77px 62px, -546px -17px;
     background-size: 43rem 32rem, 90rem 86rem;
